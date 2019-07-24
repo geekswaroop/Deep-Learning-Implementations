@@ -21,7 +21,5 @@ The second data-set(*games_tourney*) is the data-set on which we will be predict
 
 ## References:
 
-[]: https://keras.io/getting-started/functional-api-guide/	"Keras API"
-
-
+[Keras API](https://keras.io/getting-started/functional-api-guide/)
 
